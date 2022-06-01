@@ -1,4 +1,4 @@
-# how to user this?
+# how to use this?
 
 1. add you script tag attribute type=module attribute
 ```
